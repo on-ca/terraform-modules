@@ -1,0 +1,9 @@
+*.exe
+*.bat
+.terraform
+.terraform.lock.hcl
+LICENSE.txt
+*.tfplan
+*.tfstate
+*.tfstate.backup
+terraform-up-and-running-code
